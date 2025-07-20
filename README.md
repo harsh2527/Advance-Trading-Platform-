@@ -160,7 +160,7 @@ The platform calculates and visualizes:
 
 **Harsh Malhotra**
 
-An avid trader, developer cybersecurity enthusiast, passionate about applying machine learning and data science in financial markets to build useful tools and insights.
+An avid trader and developer, passionate about applying machine learning and data science in financial markets to build useful tools and insights.
 
 ---
 
@@ -178,8 +178,8 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## Contact
 
-For feedback, suggestions, or questions, please reach out to me on X,IG or mail.
+For feedback, suggestions, or questions, please reach out to Harsh Malhotra.
 
 ---
 
-*Last Updated: July 2025*
+*Last Updated: January 2025*
